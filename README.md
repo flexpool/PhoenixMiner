@@ -22,7 +22,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/PhoenixMiner/PhoenixMiner/releases/download/4.2c/PhoenixMiner_4.2c_Windows.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/PhoenixMiner/PhoenixMiner/blob/master/files/git-files/ethereum-hashrate.png" /></a>
+<img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/monitor.jpg?raw=true" /></a>
 </p>
 
 <p>PhoenixMiner is one of the most efficient and convenient miners to date, which is why it won the general recognition of miners.
