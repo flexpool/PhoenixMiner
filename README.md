@@ -57,7 +57,7 @@
 * API for rig monitoring
 
 
-<img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/mining.jpg?raw=true" width="795" >
+<img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/mining.jpg?raw=true" width="866" >
 
 ## Download
 
