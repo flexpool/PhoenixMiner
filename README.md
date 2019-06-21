@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/PhoenixMiner/PhoenixMiner/releases/download/4.2c/PhoenixMiner_4.2c_Windows.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/PhoenixMiner/PhoenixMiner/blob/master/files/git-files/phoenix-header.jpg" /></a>
+<img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/phoenix-header.png" /></a>
 </p>
 
 <p align="center">
