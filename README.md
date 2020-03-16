@@ -96,7 +96,9 @@ PhoenixMiner.exe -pool eth.f2pool.com:8008 -wal 0x1a0e2c4cd699cee12672adc223fdb3
 pause
 ```
 
+**Note**
 
+> Linux: Under Linux you need to replace PhoenixMiner.exe with ./PhoenixMiner in the command-line examples below.
 
 
 ###
