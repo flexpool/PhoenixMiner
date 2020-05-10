@@ -96,6 +96,18 @@ PhoenixMiner.exe -pool eth.f2pool.com:8008 -wal 0x1a0e2c4cd699cee12672adc223fdb3
 pause
 ```
 
+### Ethereum - Flexpool.io
+```batch
+PhoenixMiner.exe -pool eu.flexpool.io:4444 -pool2 us.flexpool.io:4444 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 -coin eth
+pause
+```
+
+### Ethereum - Flexpool.io (Secure/SSL)
+```batch
+PhoenixMiner.exe -pool ssl://eu.flexpool.io:5555 -pool2 ssl://us.flexpool.io:5555 -wal 0x9147460980c93629e775783148591b7d0a0cbf2d -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 -coin eth
+pause
+```
+
 **Note**
 
 > Linux: Under Linux you need to replace PhoenixMiner.exe with ./PhoenixMiner in the command-line examples below.
